@@ -13,6 +13,5 @@ public class ExperienceManager : SerializedMonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
     }
 }
